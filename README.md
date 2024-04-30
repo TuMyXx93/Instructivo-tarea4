@@ -512,7 +512,7 @@ Link de referencia: https://computingforgeeks.com/how-to-install-apache-spark-on
 
 Volvemos al **usuario vboxuser** con el comando
 ```
-su – vboxuser
+su - vboxuser
 ```
 **Password:** bigdata
 
