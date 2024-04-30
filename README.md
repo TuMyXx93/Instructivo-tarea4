@@ -143,9 +143,11 @@ sudo apt-get upgrade
 ![imagen 29](https://ucarecdn.com/5f61fc10-365c-4c32-941c-d84a82d005be/page21_image1.jpg)
 
 Escribimos **S** y damos enter
+
 ![imagen 30](https://ucarecdn.com/8f8e68b2-0f73-4189-a469-1d4ff1487f63/page22_image1.jpg)
 
 Seleccionamos **OK** y Enter
+
 ![imagen 31](https://ucarecdn.com/7c0ff70c-0745-48a5-8386-562088293360/page22_image2.jpg)
 
 Para realizar actualizaciones pendientes si las hay, **digtamos el siguiente comando.**
@@ -537,6 +539,7 @@ sudo mv spark-$VER-bin-hadoop3/ /opt/spark
 ```
 
 si solicita password: **bigdata**
+
 ![imagen 73](https://ucarecdn.com/85e3d6d1-ab26-4ade-8ccd-953e29f23151/page57_image3.jpg)
 
 Abra el archivo de configuración bashrc
